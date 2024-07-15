@@ -1,0 +1,85 @@
+.app {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .template-selection {
+    margin: 20px;
+  }
+  
+  button {
+    margin: 50px;
+    margin-left: 15%;
+    padding: 13px 32px;
+    background-color:rgb(24,170,141);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: black;
+  }
+  
+  formGroup {
+    margin: 10px;
+  }
+  
+   label {
+    text-align: center;
+    display: block;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+  }
+  
+   input {
+    width: 90%;
+    padding: 8px;
+    margin-left: 70px;
+    box-sizing: border-box;
+    border: 1px solid black;
+  }
+
+  previewButton{
+    padding: 10px 10px;
+    background-color:rgb(24,170,141);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 250px;
+  }
+  
+  backButton{
+    padding: 10px 10px;
+    background-color:rgb(24,170,141);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+
+  downloadButton {
+    padding: 10px 10px;
+    background-color: rgb(24, 170, 141);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  
